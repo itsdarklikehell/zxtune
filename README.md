@@ -7,7 +7,7 @@ ZXTune is open-source crossplatform chiptunes player.
 
 ## Development Visualization
 
-<video src="https://raw.githubusercontent.com/itsdarklikehell/zxtune/master/gource.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/itsdarklikehell/zxtune/develop/gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Screenshots
